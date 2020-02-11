@@ -2,6 +2,7 @@
 
 + 百度停用词表.txt
 + English_Stopwords_default_stopwords_list.txt      default stopwords list. https://www.ranks.nl/stopwords
++ en_stopword.txt 带符号
 
 # 中文常用停用词表
 
